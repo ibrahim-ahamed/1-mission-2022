@@ -58,4 +58,59 @@ img{
 /* ========== Global Css========== */
 
 
-
+/* ========== Main Css Style========== */
+/* ========== Stay Css Style========== */
+section.stay-section {
+    padding: 0 0 80px;
+}
+.main-heading {
+    margin-bottom: 20px;
+    border-left: 3px solid;
+    border-image: linear-gradient(#f6b73c, #ff5959) 1;
+}
+.main-heading h1 {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    max-width: 400px;
+    margin-left: 5px;
+    color: #13103A;
+}
+.main-heading h1 span {
+    color: #FFAD5A;
+}
+.stay-discription {
+    margin-bottom: 20px;
+}
+.stay-discription p {
+    font-size: 18px;
+    color: #3E3E3E;
+    font-weight: 400;
+    line-height: 28px;
+}
+.stay-button {
+    margin-bottom: 20px;
+}
+.stay-button a {
+    background-color: #ff5959;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border: 1px solid #ff5959;
+    border-radius: 3px;
+    line-height: 26px;
+}
+.stay-bottom-tex p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #3E3E3E;
+}
+.stay-img img {
+    width: 426px;
+    margin-left: 20px;
+}
+/* ========== Stay Css Style========== */
+/* ========== Main Css Style========== */
