@@ -232,5 +232,67 @@ img.global-shap-1 {
     z-index: -1;
 }
 /* ========== Develop Section Css Style========== */
-
+/* ========== Skill List Style========== */
+section.skill-develop-section {
+    padding-bottom: 80px;
+}
+.skill-inner {
+    margin-right: 10px;
+}
+.skill-list {
+    width: 100%;
+    margin-left: 10px;
+}
+.skill-list-items {
+    margin-bottom: 40px;
+}
+ul.skill-text-percent {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-bottom: 7px;
+}
+ul.skill-text-percent li {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+}
+.main-bg {
+    background-color: rgba(0,0,0,0.2);
+    width: 100%;
+    height: 4px;
+}
+.bar-full-width {
+    width: 100%;
+    height: 100%;
+}
+.bar-in {
+    height: 4px;
+    background-color: #000;
+}
+.width-95{
+    width: 95%;
+}
+.width-80{ 
+    width: 80%;
+}
+.width-40{
+    width: 40%;
+}
+.skill-heading-txt h2 {
+    font-size: 32px;
+    line-height: 46px;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: 700;
+    max-width: 550px;
+}
+.skill-heading-txt p {
+    font-size: 18px;
+    line-height: 28px;
+    color: #3e3e3e;
+    max-width: 550px;
+    font-weight: 400;
+}
+/* ========== Skill List Style========== */
 /* ========== Main Css Style========== */
