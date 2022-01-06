@@ -25,8 +25,17 @@ body{
 .col-12{
     width: 100%;
 }
+.col-8{
+    width:66.66666667%
+}
+.col-7{
+    width: 58.33333333%;
+}
 .col-6{
     width: 50%;
+}
+.col-5{
+    width:41.66666667%
 }
 .col-4{
     width: 33.333%;
@@ -92,7 +101,7 @@ section.stay-section {
 .stay-button {
     margin-bottom: 20px;
 }
-.stay-button a {
+.btn {
     background-color: #ff5959;
     color: #fff;
     text-decoration: none;
