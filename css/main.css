@@ -174,4 +174,52 @@ section.my-mission-section .main-heading h1 {
     color: #424242;
 }
 /* ========== My Mission Css Style ========== */
+/* ========== Develop Section Css Style========== */
+section.develop-section {
+    padding-bottom: 80px;
+}
+.develop-inner {
+    padding: 15px;
+}
+.develop-image {
+    margin-right: 15px;
+    position: relative;
+}
+.develop-image img.develop-img-1 {
+    width: 435px;
+    z-index: 9;
+}
+img.develop-shap-1 {
+    position: absolute;
+    width: 227px;
+    height: 227px;
+    top: 50%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+img.develop-shap-2 {
+    position: absolute;
+    bottom: -30%;
+    width: 100px;
+    left: -34%;
+    transform: translate(50%, -50%);
+}
+.develop-inner h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: 700;
+    max-width: 300px;
+}
+.develop-inner p {
+    font-size: 18px;
+    line-height: 28px;
+    color: #3e3e3e;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+/* ========== Develop Section Css Style========== */
+
 /* ========== Main Css Style========== */
