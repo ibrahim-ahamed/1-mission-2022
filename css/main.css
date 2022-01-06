@@ -295,4 +295,19 @@ ul.skill-text-percent li {
     font-weight: 400;
 }
 /* ========== Skill List Style========== */
+/* ==========footer section========== */
+footer.footer-section {
+    background-color: #0B0D17;
+    padding: 50px 0;
+}
+.footer-inner {
+    text-align: center;
+}
+.footer-inner p {
+    color: #fff;
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+}
+/* ==========footer section========== */
 /* ========== Main Css Style========== */
