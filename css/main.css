@@ -220,6 +220,7 @@ img.develop-shap-2 {
     font-size: 18px;
     line-height: 28px;
     color: #3e3e3e;
+    max-width: 550px;
     font-weight: 400;
     margin-bottom: 25px;
 }
