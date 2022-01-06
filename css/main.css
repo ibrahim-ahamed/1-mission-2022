@@ -75,6 +75,7 @@ section.stay-section {
     max-width: 400px;
     margin-left: 5px;
     color: #13103A;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 .main-heading h1 span {
     color: #FFAD5A;
@@ -116,4 +117,52 @@ section.stay-section {
     text-align: center;
 }
 /* ========== Stay Css Style========== */
+/* ========== My Mission Css Style ========== */
+section.my-mission-section {
+    padding: 0 0 80px;
+}
+section.my-mission-section .main-heading {
+    border-left: unset;
+    border-image: unset;
+}
+section.my-mission-section .main-heading h1 {
+    margin-right: auto;
+    margin-left: auto;
+}
+.my-mission-bg-color-three {
+    background-color: #FFF4D6;
+    margin-left: 10px;
+}
+.my-mission-bg-color-two {
+    background-color: rgba(255, 89, 89, 0.1);
+    margin: 0 5px;
+}
+.my-mission-bg-color-one {
+    background-color: rgba(79, 157, 166, 0.1);
+    margin-right: 10px;
+}
+.my-mission-inner {
+    text-align: left;
+    padding: 20px;
+    border-radius: 20px;
+}
+.my-mission-inner img {
+    width: 141px;
+    height: 141px;
+}
+.my-mission-inner h4 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.my-mission-inner p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #424242;
+}
+/* ========== My Mission Css Style ========== */
 /* ========== Main Css Style========== */
