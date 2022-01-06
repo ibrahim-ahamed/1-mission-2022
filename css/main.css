@@ -176,7 +176,7 @@ section.my-mission-section .main-heading h1 {
 /* ========== My Mission Css Style ========== */
 /* ========== Develop Section Css Style========== */
 section.develop-section {
-    padding-bottom: 80px;
+    padding-bottom: 150px;
 }
 .develop-inner {
     padding: 15px;
@@ -213,12 +213,22 @@ img.develop-shap-2 {
     font-weight: 700;
     max-width: 300px;
 }
+.develop-inner.global h2{
+    max-width: 100%;
+}
 .develop-inner p {
     font-size: 18px;
     line-height: 28px;
     color: #3e3e3e;
     font-weight: 400;
     margin-bottom: 25px;
+}
+img.global-shap-1 {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    transform: translate(50%, 50%);
+    z-index: -1;
 }
 /* ========== Develop Section Css Style========== */
 
